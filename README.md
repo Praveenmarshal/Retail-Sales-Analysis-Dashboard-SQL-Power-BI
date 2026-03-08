@@ -197,7 +197,7 @@ Retail-Sales-Analysis
 └── README.md
 
 
-if you have any doubts contact me
+If you have feedback or suggestions, feel free to connect.
 
 Name: praveen k
 

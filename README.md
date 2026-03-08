@@ -196,6 +196,7 @@ Retail-Sales-Analysis
 │
 └── README.md
 
+Email: praveenkicha01@gmail.com
 linkedin:www.linkedin.com/in/praveen-kannan-6862382a2
 
 👨‍💻 Author

@@ -196,14 +196,18 @@ Retail-Sales-Analysis
 │
 └── README.md
 
+
+if you have any doubts contact me
+
+Name: praveen k
+
+phone: 8825870266
+
 Email: praveenkicha01@gmail.com
 
+GitHub: https://github.com/Praveenmarshal
 
-linkedin:www.linkedin.com/in/praveen-kannan-6862382a2
-
-👨‍💻 Author
-
-PRAVEEN KANNAN
+LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
 
 Aspiring Data Analyst passionate about turning data into actionable insights.
 
